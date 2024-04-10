@@ -18,7 +18,7 @@ header#home {
     background-image: url(./img-header.png);
     background-size: cover;
     background-position: center bottom;
-    height: 600px;
+    height: 400px;
     padding-right: 10px;
     
 }
@@ -171,10 +171,10 @@ a:unvisited {
     padding-top: 8%;
     width: 50%;
     /*background-color: red;*/
-    margin-left: auto;
+    margin-left: 100px;
     margin-right: auto;
     font-family: 'Comfortaa', cursive;
-    text-align: center;
+    text-align: left;
 }
 
 

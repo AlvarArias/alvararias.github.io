@@ -14,12 +14,13 @@ h1,h2,h3 {
 }
 
 header#home {
-    background-color: #ECEDF1;
+    background-color: #ecedf1d1;
     background-image: url(./img-header.png);
     background-size: cover;
     background-position: center bottom;
     height: 400px;
     padding-right: 10px;
+    opacity: 0.75;
     
 }
 
